@@ -1,0 +1,3 @@
+# .github/workflows/scraping.yml
+# TODO (Paso 8): corre scraper/scrape.js periódicamente y commitea
+# data/institucion.json si hubo cambios.
