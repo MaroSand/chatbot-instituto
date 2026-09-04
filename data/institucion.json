@@ -1,0 +1,21 @@
+{
+  "carreras": [
+    {
+      "nombre": "",
+      "tipo": "",
+      "estado_cupos": "",
+      "datos_generales": "",
+      "plan_de_estudio": "",
+      "url_fuente": ""
+    }
+  ],
+  "documentacion_legajo": "",
+  "fechas_importantes": "",
+  "preguntas_frecuentes": "",
+  "contacto": {
+    "direccion": "Pueyrredón N° 1530 (Calle 25 entre 32 y 34), barrio Yapeyú, Presidencia Roque Sáenz Peña",
+    "telefono": "0364 - 4426447",
+    "horario_atencion": "07:00 a 21:50",
+    "sitio_web": "https://ispmantovani-cha.infd.edu.ar/sitio/"
+  }
+}
